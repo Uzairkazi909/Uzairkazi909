@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Uzairkazi909/Uzairkazi909/blob/main/WhatsApp%20Image%202026-10-15%20at%2010.17.32%20AM.jpeg
+![Profile Banner](https://github.com/Uzairkazi909/Uzairkazi909/blob/main/WhatsApp%20Image%202026-10-15%20at%2010.17.32%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Uzair Kazi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
